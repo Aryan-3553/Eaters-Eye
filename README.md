@@ -12,7 +12,7 @@ This project uses:
 Frontend: 
 - Vue.js - https://vuejs.org/guide/introduction.html
 - Tailwind CSS - https://tailwindcss.com/docs/installation
-- HMTL
+- HTML
 
 Backend: 
 - Python (Flask) - https://www.python.org/downloads/
