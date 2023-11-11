@@ -1,4 +1,4 @@
-# McHacks10-backend
+# Backend
 
 Link to frontend: https://github.com/siwuagain/mchacks_frontend
 
