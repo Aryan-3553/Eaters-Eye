@@ -119,4 +119,4 @@ npm build
 
 &nbsp;
 
-Deploy the webapp on vercel. Login to vercel using github and deploy your github repo directly from vercel.
+Deploy the webapp on vercel. Login to vercel using github and deploy your github repo directly on vercel.
