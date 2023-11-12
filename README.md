@@ -3,6 +3,9 @@ Watch out for what you eat
 
 Eater's eye is a full-stack AI web application. Returns the nutritional contents of the food captured through camera or uploaded via files.
 
+Link to youtube video - https://youtu.be/fhysG7ToD-M?si=IdrfApYjC_pyZKtI
+
+
 ## Tech Stack
 
 &nbsp;
