@@ -19,7 +19,7 @@ Frontend:
 
 Backend: 
 - Python (Flask) - https://www.python.org/downloads/
-- Google Vision API - https://cloud.google.com/vision/docs#docs
+- Google Cloud Vision API - https://cloud.google.com/vision/docs#docs
 - CalorieNinja API - https://calorieninjas.com/api
 
 Deployment:
